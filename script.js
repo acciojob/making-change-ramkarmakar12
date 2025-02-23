@@ -1,4 +1,4 @@
-const makeChange = (c) => {
+const makeChange = (amount) => {
   // your name here
 	  return {
         q: Math.floor(amount / 25),
